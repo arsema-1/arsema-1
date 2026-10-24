@@ -109,19 +109,6 @@ A role-based web application for managing organizational assets and their assign
 
 
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arsema-1&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsema-1&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=arsema-1&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
-
-
 ## 🎯 Current Goals
 
 - Strengthen my full-stack development skills.
